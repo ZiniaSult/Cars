@@ -20,6 +20,8 @@ public class Car{
 
     }
 
+
+
     public void run() {
         if(this.direction == 1) {
             this.possition.x++;
